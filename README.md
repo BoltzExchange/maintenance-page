@@ -1,1 +1,1 @@
-# Boltz exchange maintenance website
+# Boltz Maintenance Website
